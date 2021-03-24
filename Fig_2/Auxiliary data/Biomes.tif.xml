@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20210111</CreaDate><CreaTime>17403000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.7\ArcToolbox\Toolboxes\Conversion Tools.tbx\PolygonToRaster" Date="20210111" Time="174030">PolygonToRaster wwf_terr_ecos BIOME F:\EWS_0111\Fig_1\LandCover\Biomes.tif CELL_CENTER NONE F:\EWS_0111\Fig_1\Composite_36_Kendall_Ex.tif</Process></lineage></DataProperties></Esri></metadata>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20210114</CreaDate><CreaTime>15490000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.7\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\RasterCalculator" Date="20210114" Time="154900">RasterCalculator ""Mean_Interpret_Ex.tif" + "Com_Mean_CV_Ex.tif"" F:\EWS_0111\Fig_3\Fig_3a\Mean_Total_Interpret_Ex.tif</Process></lineage></DataProperties></Esri></metadata>
